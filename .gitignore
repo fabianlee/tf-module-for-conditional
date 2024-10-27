@@ -1,0 +1,7 @@
+*.txt
+
+# terraform files
+.terraform
+*.lock.hcl
+*.backup
+*.tfstate
