@@ -1,4 +1,4 @@
-# Illustrates using conditional to decide include of module
+# Using a conditional at the module level to include a set of related resources
 
 blog:
 
